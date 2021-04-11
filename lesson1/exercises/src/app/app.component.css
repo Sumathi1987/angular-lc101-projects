@@ -1,0 +1,14 @@
+.pt{
+    text-align: center;
+    font-size:32px ;
+}
+.box{
+    display: flex;
+    padding: 200px;
+}
+.photos{
+    justify-content: center;
+}
+.chores{
+    align-items: right;
+}
